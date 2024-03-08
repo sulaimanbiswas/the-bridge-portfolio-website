@@ -1,0 +1,120 @@
+
+.preloader .icon {
+    text-shadow: 0 0 10px #07A755e6;
+}
+.custom--accordion-two .accordion-button:not(.collapsed), .preloader .icon, .about-item__icon i, .overview-item__number, .inlne-menu li a:hover, .package-sidebar-list li i, .contact-item i, .contact-item p a:hover {
+    color: #07A755;
+}
+body::-webkit-scrollbar-thumb, .preloader .rounded-circle::after, .find-tabs .nav-item .nav-link.active, .location-slider .slick-arrow:hover, .trip-card__price, .trip-slider .slick-dots li.slick-active button, .subscribe-form button, .tour-plan-block .title span, .package-sidebar-widget .thumb .price, .single-review .progress .progress-bar {
+    background-color: #07A755;
+}
+
+.header .main-menu li a:hover, .header .main-menu li a:focus {
+    color: #07A755;
+}
+
+.btn--base {
+    background-color: #07A755;
+}
+.btn--base:hover {
+    background-color: #07A755;
+}
+
+.select2-container--default .select2-results__option--highlighted[aria-selected] {
+    background-color: #07A755;
+}
+
+.form--control:focus {
+    border-color: #07A755 !important;
+}
+
+a:hover {
+    color: #07A755;
+}
+
+.trip-card__price {
+    box-shadow: 0 5px 15px 2px #07A75566;
+}
+
+.post-card__meta li a:hover {
+    color: #07A755;
+}
+
+.text--btn {
+    color: #07A755;
+}
+
+.footer__bottom::before {
+    background-color: #152ae8;
+}
+
+.form--control:focus {
+    box-shadow: 0 0 5px #07A75559;
+}
+
+.custom--checkbox input:checked ~ label::before {
+    color: #07A755;
+}
+
+.page-breadcrumb li:first-child::before {
+    color: #07A755;
+}
+
+.custom--nav-tabs .nav-item .nav-link.active {
+    background-color: #07A755;
+}
+
+.text--base {
+    color: #07A755 !important;
+}
+
+.form--control {
+    border: 1px solid #07A755;
+}
+
+.header .main-menu li .sub-menu li a:hover {
+    color: #07A755;
+}
+
+.header .main-menu li.menu_has_children:hover > a::before {
+    color: #07A755;
+}
+
+.profile-thumb .avatar-edit label {
+    background-color: #07A755;
+}
+
+.page-breadcrumb li a:hover {
+    color: #07A755;
+}
+
+.custom--file-upload ~ label {
+    background-color: #07A755;
+}
+
+.pagination .page-item.active .page-link {
+    background-color: #07A755;
+}
+.pagination .page-item .page-link {
+    border: 1px solid #07A75540;
+}
+.pagination .page-item .page-link:hover {
+    background-color: #07A755;
+    border-color: #07A755;
+}
+.header .main-menu li .sub-menu li a:hover {
+    background-color: #07A7550d;
+}
+.form-check-input:checked, .action-widget__title.no-icon::after {
+    background: #07A755;
+    border-color: #07A755;
+}
+.cmn-list li::before, .d-widget__icon i  {
+    color: #07A755}
+.phone-number li a i {
+    color: #07A755}
+
+element.style {
+}
+.social-icons li a {
+    color: #07A755}
